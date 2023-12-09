@@ -1,0 +1,5 @@
+# log files to be ignored
+apikeys.txt
+
+# ignore all the files with txt extension
+*.txt 
